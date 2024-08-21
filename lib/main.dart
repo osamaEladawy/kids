@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:kids_play/pages/home.dart';
+import 'package:kids_play/views/home.dart';
 
 void main() {
   runApp(const MyApp());
